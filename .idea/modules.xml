@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Simple_Debugging/1_Simple_Debugging.iml" filepath="$PROJECT_DIR$/1_Simple_Debugging/1_Simple_Debugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Container_Class/2_Container_Class.iml" filepath="$PROJECT_DIR$/2_Container_Class/2_Container_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Complex_Debugging/3_Complex_Debugging.iml" filepath="$PROJECT_DIR$/3_Complex_Debugging/3_Complex_Debugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial_6.iml" filepath="$PROJECT_DIR$/tutorial_6.iml" />
+    </modules>
+  </component>
+</project>
